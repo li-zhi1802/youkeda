@@ -7,3 +7,5 @@ git remote -v
 
 删除
 git remote remove
+
+继续加油！
